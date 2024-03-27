@@ -6,7 +6,6 @@ public class assignment2 {
 	
 	public static void main(String[] args) {
 		
-		int c;
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -18,7 +17,7 @@ public class assignment2 {
 		
 		int b = sc.nextInt();
 		
-		c = a*b;
+		float c = a/b;
 		
 		System.out.print(c);
 	}
