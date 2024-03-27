@@ -17,7 +17,7 @@ public class assignment2 {
 		
 		int b = sc.nextInt();
 		
-		float c = a/b;
+		int c = a-b;
 		
 		System.out.print(c);
 	}
